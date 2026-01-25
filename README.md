@@ -1,69 +1,30 @@
-# Hey there, you found me 👋
+## Hey, I'm Gopinath 👋
+**AI Engineer • ML Systems**
 
-**Gopinath Boyapalli**  
-AI Engineer • ML Systems • DevOps • Cloud
+I bridge the gap between **experimental ML** and **production-grade engineering**. I don’t just build models; I architect the systems that make them scale, survive, and succeed.
 
-[Portfolio](https://gopib03.github.io) ·
-[LinkedIn](https://www.linkedin.com/) ·
-[GitHub](https://github.com/Gopib03) ·
-[Google Scholar](#) ·
-[Email](gopib3456@email.com)
+[Portfolio](https://gopib03.github.io) • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/Gopib03) • [Email](mailto:your@email.com)
 
 ---
 
-I'm an engineer who enjoys living at the intersection of **machine learning systems, MLops infrastructure, and real-world problem solving**.
+### 🧠 The Mission
+* **LLMOps & RAG:** Multi-agent orchestration and cost-aware retrieval.
+* **ML Reliability:** Building observable, robust CV and multimodal pipelines.
+* **Cloud Native:** Automating the "impossible" via AWS, K8s, and Terraform.
 
-By day, I work on AI/ML and cloud-native systems.  
-By night, I build, break, and rebuild things until they scale 🚀
-
----
-
-### 🔭 Research & Interests
-- Machine Learning systems (robustness, efficiency, deployment)
-- LLMs, RAG pipelines, multi-agent systems
-- Computer Vision & multimodal models
-- Model evaluation, observability, and reliability
+### 🛠️ Tech Arsenal
+* **Languages:** Python, Java, Bash, TypeScript
+* **AI/ML:** PyTorch, Hugging Face, OpenAI, FastAPI
+* **Infra:** AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions
 
 ---
 
-### 🚀 Engineering Focus
-- Building **production-grade ML pipelines**
-- LLM-powered applications (RAG, agents, fine-tuning)
-- Cloud & DevOps (AWS, Docker, Kubernetes, Terraform)
-- CI/CD, monitoring, and scalable backend systems
+### 🚀 High-Impact Builds
+* **Multi-Agent OMS:** Scaled AI agents to handle 1,000+ concurrent orders.
+* **Hybrid Log Framework:** Combined Regex + Embeddings for intelligent diagnostics.
+* **Production RAG:** High-precision assistant with optimized token overhead.
 
----
-
-### 🧰 Tech I Work With
-**Languages:** Python, Java, Bash  
-**ML:** PyTorch, Hugging Face, Sentence Transformers  
-**LLMs:** OpenAI APIs, RAG, Agents, Fine-tuning  
-**Cloud:** AWS (EC2, S3, IAM, CloudWatch, Lambda)  
-**DevOps:** Docker, Kubernetes, GitHub Actions, Terraform  
-**Web:** React, TypeScript, FastAPI
-
----
-
-### 🧪 Featured Projects
-- **Multi-Agent Order Management System**  
-  Scalable AI agents handling 1000+ concurrent orders  
-- **Hybrid Log Classification Framework**  
-  Regex + Embeddings + LLMs exposed via FastAPI  
-- **RAG-based AI Assistant**  
-  Retrieval, summarization, and cost-aware LLM usage
-
-👉 More in my repositories.
-
----
-
-### 🕹️ Currently Exploring
-- LLM systems engineering
-- AI agents in real-world workflows
-- Evaluation & monitoring for ML in production
-
----
-
-### 🌭 Life Goal
 ```python
-while sleeping:
-    money += 1
+while soul.is_active():
+    impact = build_ml_systems()
+    passive_income += 1  # Logic in progress... 🚀
