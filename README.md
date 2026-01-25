@@ -24,10 +24,7 @@ I bridge the gap between **experimental ML** and **production-grade engineering*
 * **Hybrid Log Framework:** Combined Regex + Embeddings for intelligent diagnostics.
 * **Production RAG:** High-precision assistant with optimized token overhead.
 
-```python
-while soul.is_active():
-    impact = build_ml_systems()
-    passive_income += 1  # Logic in progress... 🚀
+
 
 ### 📊 Stats & Impact
 <p align="center">
@@ -35,3 +32,9 @@ while soul.is_active():
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopib03&layout=compact&theme=transparent&hide_border=true&title_color=3182ce" alt="Top Languages" />
 </p>
+
+
+```python
+while soul.is_active():
+    impact = build_ml_systems()
+    passive_income += 1  # Logic in progress... 🚀
