@@ -3,7 +3,7 @@
 
 I bridge the gap between **experimental ML** and **production-grade engineering**. I don’t just build models; I architect the systems that make them scale, survive, and succeed.
 
-[Portfolio](https://gopib03.github.io) • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/Gopib03) • [Email](mailto:your@email.com)
+[Portfolio](https://gopib03.github.io) • [LinkedIn](https://www.linkedin.com/in/gopinath-b-818056270/) • [GitHub](https://github.com/Gopib03) • [Email](mailto:gopib3456@email.com)
 
 ---
 
@@ -28,3 +28,10 @@ I bridge the gap between **experimental ML** and **production-grade engineering*
 while soul.is_active():
     impact = build_ml_systems()
     passive_income += 1  # Logic in progress... 🚀
+
+### 📊 Stats & Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopib03&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&icon_color=3182ce" alt="Gopinath's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopib03&layout=compact&theme=transparent&hide_border=true&title_color=3182ce" alt="Top Languages" />
+</p>
