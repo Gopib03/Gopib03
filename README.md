@@ -4,7 +4,6 @@
 
 ### 🤖 AI Engineer | ⚡ CUDA Programmer | 🧠 ML Enthusiast
 
-<div align="center">
 <a href="https://gopib03.github.io">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
 </a>
@@ -17,11 +16,12 @@
 <a href="mailto:gopib3456@email.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</div>
 
 ---
 
 > *"Accelerating intelligence, one kernel at a time"*
+
+> **Goal for 2026:** Taking my GitHub game from C to A by year-end 🎯📈
 ```cpp
 __global__ void developer_info() {
     const char* name = "Gopinath B";
@@ -39,20 +39,15 @@ __global__ void developer_info() {
 💡 **Ask Me About:** AI Engineering, GPU computing, ML pipelines  
 📊 **Commits This Year:** Making Git green daily  
 ⚡ **Fun Fact:** I make GPUs go brrr 🚀
- **Goal for 2026:** Taking my GitHub game from C to A by year-end 🎯📈
-```cpp
 
-</div>
+---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopib03&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Gopib03&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopib03&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopib03&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gopib03&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gopib03&theme=radical&hide_border=true)
 
-
-
-
-
+</div>
