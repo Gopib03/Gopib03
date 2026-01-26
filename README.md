@@ -43,6 +43,7 @@ __global__ void developer_info() {
 ```cpp
 
 </div>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -54,7 +55,6 @@ __global__ void developer_info() {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopib03&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </p>
 
-</div>
 
 
 
