@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="https://gopib03.github.io">
-    <img src="https://img.icons8.com/3d-fluency/94/domain.png" width="48"/>
+    <img src="https://api.iconify.design/ph:globe-light.svg" width="26" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gopinath-b-818056270/">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="48"/>
+    <img src="https://api.iconify.design/ph:linkedin-logo-light.svg" width="26" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Gopib03">
-    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="48"/>
+    <img src="https://api.iconify.design/ph:github-logo-light.svg" width="26" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gopib3456@email.com">
-    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="48"/>
+    <img src="https://api.iconify.design/ph:envelope-light.svg" width="26" />
   </a>
 </p>
 
