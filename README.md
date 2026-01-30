@@ -19,9 +19,9 @@
 
 ---
 
-> *"Accelerating intelligence, one kernel at a time"*
+ *"Accelerating intelligence, one kernel at a time"*
 
-> **Goal for 2026:** Taking my GitHub game from C to A by year-end 🎯📈
+ **Goal for 2026:** Taking my GitHub game from C to A by year-end 🎯📈
 ```cpp
 __global__ void developer_info() {
     const char* name = "Gopinath B";
