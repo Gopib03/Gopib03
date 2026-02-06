@@ -34,12 +34,19 @@ I build **production-grade AI systems** specializing in **GPU acceleration, LLM 
 
 ---
 
+
 ## 📊 GitHub Activity
 
 ```
-Contributions are displayed in your GitHub profile
-Visit: https://github.com/Gopib03
+     Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec   Jan
+Mon  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+Wed  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+Fri  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬜ ⬜ ⬜ ⬜
 ```
+
+View full activity: [github.com/Gopib03](https://github.com/Gopib03)
+
+---
 
 ---
 
