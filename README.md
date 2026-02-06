@@ -1,15 +1,21 @@
 # 👋 Hey, I'm Gopinath
 
 ### 🤖 AI Engineer | ⚡ CUDA Specialist | 🧠 ML Systems
+### 🛠️ Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 🚀 Current Projects
 
 - 🔗 [RAG_HYBRID](https://github.com/Gopib03/RAG-system-with-hybrid-search-and-evaluation) – Production-grade RAG system with hybrid search and evaluation framework
 - 🛡️ [GUARDRAIL](https://github.com/Gopib03/guardrail) – LLM safety and content filtering pipeline
 
----
 
 ## 📌 About Me
 
@@ -23,7 +29,7 @@ I build **production-grade AI systems** specializing in **GPU acceleration, LLM 
 
 **2026 Goal:** Advance from **C → A tier** through impactful open-source contributions
 
----
+
 
 ## 🔥 What I'm Doing
 
@@ -32,23 +38,7 @@ I build **production-grade AI systems** specializing in **GPU acceleration, LLM 
 - ⚙️ **Brushing CUDA & Multi-GPU Programming** – Optimizing compute kernels for distributed AI workloads
 - 🤖 **3D VLM for Future Multi-Modal Systems** – Developing vision-language models for 3D understanding
 
----
 
-
-## 📊 GitHub Activity
-
-```
-     Feb   Mar   Apr   May   Jun   Jul   Aug   Sep   Oct   Nov   Dec   Jan
-Mon  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-Wed  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
-Fri  ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬜ ⬜ ⬜ ⬜
-```
-
-View full activity: [github.com/Gopib03](https://github.com/Gopib03)
-
----
-
----
 
 ## 📫 Connect
 
