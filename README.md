@@ -17,6 +17,8 @@
 - 🛡️ [GUARDRAIL](https://github.com/Gopib03/guardrail) – LLM safety and content filtering pipeline
 - 💰 [FINANCE-AGENT](https://github.com/Gopib03/Smart-Finance-Assistant.git) – Multi-Agent System for Personal Financial Management
 - 🐝 [HIVE-AD-AGENT](https://github.com/Gopib03/Hive-ad-agent) –  HIVE AD AGENT - Production System AI-Powered Multi-Agent Advertising Intelligence Platform
+- 🤖 [EGOBOT-REASON](https://github.com/Gopib03/egobot-reason) –   Gives robots the ability to see, understandsafely, interact with humans from a first-person perspective using NVIDIA Cosmos Reason 2.
+
 
 
 
