@@ -20,8 +20,6 @@
 - 🤖 [EGOBOT-REASON](https://github.com/Gopib03/egobot-reason) –   Gives robots the ability to see, understandsafely, interact with humans from a first-person perspective using NVIDIA Cosmos Reason 2.
 
 
-
-
 ## 📌 About Me
 
 *"Accelerating intelligence, one kernel at a time."*
@@ -42,7 +40,6 @@ I build **production-grade AI systems** specializing in **GPU acceleration, LLM 
 - 🎨 **Exploring OpenUSD** – Mastering universal scene description for production pipelines
 - ⚙️ **Brushing CUDA & Multi-GPU Programming** – Optimizing compute kernels for distributed AI workloads
 - 🤖 **3D VLM for Future Multi-Modal Systems** – Developing vision-language models for 3D understanding
-
 
 
 ## 📫 Connect
