@@ -33,7 +33,6 @@ I build **production-grade AI systems** specializing in **GPU acceleration, LLM 
 **2026 Goal:** Advance from **C → A tier** through impactful open-source contributions
 
 
-
 ## 🔥 What I'm Doing
 
 - 🚀 **Working with NVIDIA Cosmos & Omniverse** – Building next-gen AI-powered 3D simulation systems
